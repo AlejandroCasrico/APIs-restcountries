@@ -1,2 +1,2 @@
 # APIs-restcountries
-Api that shows the name, flag and capital of a country
+Api that shows the name, flag, and the capital of a country
